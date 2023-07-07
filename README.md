@@ -4,6 +4,7 @@
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=starchristopher&show_icons=true&theme=merko)](https://github.com/starchristopher/github-readme-stats)
 
 - 🎅 Born in USA, currently living in Brazil
+- 🔊 Portuguese/English
 - 👨‍🎓 Under degree in Software Engineering
 - 👩‍💻 Currently working as a Frontend Developer
 - 👉 React and TypeScript
