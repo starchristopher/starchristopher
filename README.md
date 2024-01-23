@@ -7,8 +7,8 @@
 - 🔊 Portuguese/English
 - 👨‍🎓 Under degree in Software Engineering
 - 👩‍💻 Currently working as a Frontend Developer
-- 👉 React and TypeScript
-- 🎈 I'm learning React Native at the moment
+- 👉 React and React Native
+- 🎈 I'm learning NestJS at the moment
 - ✨ Very passionate to learn new skills
 
 <h3 align="left">Connect with me:</h3>
