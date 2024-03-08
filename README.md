@@ -6,10 +6,9 @@
 - 🎅 Born in USA, currently living in Brazil
 - 🔊 Portuguese/English
 - 👨‍🎓 Under degree in Software Engineering
-- 👩‍💻 Currently working as a Frontend Developer
-- 👉 React and React Native
-- 🎈 I'm learning NestJS at the moment
-- ✨ Very passionate to learn new skills
+- 👩‍💻 Currently working as a Software Engineer
+- 👉 TypeScript, React, React Native, NodeJS, NestJS
+- ✨ Extremely passionate on learning new skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
