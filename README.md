@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">Software Engineer</h3>
 
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=starchristopher&show_icons=true&theme=merko)](https://github.com/starchristopher/github-readme-stats)
 
